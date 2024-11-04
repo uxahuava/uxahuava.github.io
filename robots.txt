@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxahuava.github.io/Aba/sitemap_index.txt
+Sitemap: https://uxahuava.github.io/nyQ/sitemap_index.txt
+Sitemap: https://uxahuava.github.io/qTt/sitemap_index.txt
+Sitemap: https://uxahuava.github.io/rwG/sitemap_index.txt
